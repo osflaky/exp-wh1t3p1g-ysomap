@@ -1,0 +1,24 @@
+# java
+*.class
+
+# mvn
+**/target/**
+**/secret/**
+**/taobao/**
+**/alipay/**
+
+# eclipse
+.classpath
+.project
+.settings/
+
+# idea
+.idea/
+*.iml
+
+.DS_Store
+*.ser
+*Test.java
+/lib/
+dumped.yso
+**/jni/
